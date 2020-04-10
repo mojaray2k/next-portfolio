@@ -1,0 +1,24 @@
+{
+  "name": "next-portfolio",
+  "version": "1.0.0",
+  "description": "A portfolio application built using React.JS and Next.JS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next -p 3105"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mojaray2k/next-portfolio.git"
+  },
+  "author": "Amen Moja Ra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mojaray2k/next-portfolio/issues"
+  },
+  "homepage": "https://github.com/mojaray2k/next-portfolio#readme",
+  "dependencies": {
+    "next": "^9.3.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
