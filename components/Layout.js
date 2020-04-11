@@ -26,8 +26,11 @@ export default ({ children, title }) => (
           <a>About</a>
         </Link>
         {"     "}
-        <Link href="hireme">
+        <Link href="/hireme">
           <a>Hire Me</a>
+        </Link>
+        <Link href="/blog">
+          <a>Blog</a>
         </Link>
       </header>
       <h1>{title}</h1>
