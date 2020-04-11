@@ -4,7 +4,10 @@
   "description": "A portfolio application built using React.JS and Next.JS",
   "main": "index.js",
   "scripts": {
-    "dev": "next -p 3105"
+    "dev": "next -p 3105",
+    "build": "next build",
+    "export": "next export",
+    "deploy": "cd out && now --public"
   },
   "repository": {
     "type": "git",
